@@ -1,4 +1,4 @@
-package org.soln.leet_code_solutions.easy;
+package org.soln.leet_code_solutions.medium;
 
 public class StringToInteger_atoi {
 	//Better to read solution⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️🔽🔽⏬

@@ -1,9 +1,10 @@
-package org.soln.leet_code_solutions.easy;
+package org.soln.leet_code_solutions.medium;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
+import org.soln.leet_code_solutions.medium.StringToInteger_atoi;
 
 class StringToInteger_atoiTest {
 	StringToInteger_atoi underTest = new StringToInteger_atoi();
